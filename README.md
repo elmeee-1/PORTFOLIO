@@ -18,6 +18,8 @@ This portfolio is built as a single-page responsive website using modern HTML an
 
 ## Project Structure
 
+ <img src="assest/demo.png"/>
+
 - `index.html` — main portfolio page
 - `assest/` — asset folder for images, icons, or other media
 - `README.md` — project documentation
